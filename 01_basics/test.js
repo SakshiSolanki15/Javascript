@@ -1,1 +1,1 @@
-console.js("Sakshi")
+console.log("Sakshi")
